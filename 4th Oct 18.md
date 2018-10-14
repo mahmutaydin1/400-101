@@ -10,7 +10,7 @@ E.Traffic Class
 
 Answer:  A, B 
 
----
+-----
 
 ## Q2 
 Refer to the exhibit. Which three statements correctly describe the route reflector's behavior? (Choose two.)  
